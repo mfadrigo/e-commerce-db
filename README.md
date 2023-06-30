@@ -8,6 +8,6 @@
 The different files involved in the database design and management process:  
 
 - [E/R Modeling](ER-Design.pdf)
-- [E/R & Relationl Translation](Relational-Schema-Design.sql)
+- [E/R & Relational Translation](Relational-Schema-Design.sql)
 - [SQL Part 1](Queries.sql)  
 - [SQL Part 2](Views-Procedures-Triggers.sql)
