@@ -1,1 +1,1 @@
-# e-commerce-db
+# E-commerce Website Database Design & Management
