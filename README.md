@@ -1,7 +1,6 @@
 # E-commerce Website Database Design & Management
 
-## Author
-- Micah Fadrigo: mfadrigo@uci.edu
+## Author: Micah Fadrigo (mfadrigo@uci.edu)
 
 ## Content  
 
